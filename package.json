@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.boolmono",                              
+  "displayName": "To Boolean Mono",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Just a tool to have drag and drop boolean with mono",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2025_01_23_ToBooleanMono.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
